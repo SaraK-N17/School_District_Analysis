@@ -16,17 +16,17 @@ The data was summarized by school, specific to Thomas High School, by grade leve
 
 
 ## Results
-The initial results for Thomas High school were:
+The initial results for Thomas High school (including 9th graders) were:
 
-![image](https://user-images.githubusercontent.com/95710184/150135784-5e99cd0c-04d0-42c5-9bce-2b1d88b89b16.png)
+![image](https://user-images.githubusercontent.com/95710184/150135992-e6ccc416-4419-452b-b7c0-2797967b2233.png)
 
-![image](https://user-images.githubusercontent.com/95710184/150045865-2c3966c0-7b6d-4538-90ea-f85d8a497667.png)
+![image](https://user-images.githubusercontent.com/95710184/150136040-8da32cf8-61fa-4d58-bf74-f10d070beb9b.png)
 
 The updated results with 9th graders scores removed were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150047449-74df66fa-7d1c-446d-bf7a-48f00d036618.png)
 
-![image](https://user-images.githubusercontent.com/95710184/150135428-169f44b4-3414-426f-a25a-6d26dd3b0d42.png)
+![image](https://user-images.githubusercontent.com/95710184/150136060-0cedca4d-707c-4ef3-a966-2ae0bdcea6e7.png)
 
 
 
