@@ -9,7 +9,7 @@ Maria provided school data for the school district. She would like results analy
 ## Analysis
 
 After cleaning up the data to remove prefixes/suffixes and omitting the 9th grade scores from Thomas High School in the analysis we were able to combine the student data with the school data into one DataFrame.
-![image](https://user-images.githubusercontent.com/95710184/150044874-7fa3a392-5207-4943-b8f4-105feac76cf6.png)
+![image](https://user-images.githubusercontent.com/95710184/150193629-3b64b9b8-1c7b-471b-bb6a-0faebe364736.png)
 
 The data was summarized and analyzed by school, grade level, budget, school size and by school type (charter or district). 
 
