@@ -18,7 +18,7 @@ The data was summarized by school, specific to Thomas High School, by grade leve
 ## Results
 The initial results for Thomas High school were:
 
-![image](https://user-images.githubusercontent.com/95710184/150046003-b53d4a5e-1058-4273-ac75-551c4a26918b.png)
+![image](https://user-images.githubusercontent.com/95710184/150135784-5e99cd0c-04d0-42c5-9bce-2b1d88b89b16.png)
 
 ![image](https://user-images.githubusercontent.com/95710184/150045865-2c3966c0-7b6d-4538-90ea-f85d8a497667.png)
 
