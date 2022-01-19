@@ -26,7 +26,8 @@ The updated results with 9th graders scores removed were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150047449-74df66fa-7d1c-446d-bf7a-48f00d036618.png)
 
-![image](https://user-images.githubusercontent.com/95710184/150047357-d36072cb-8574-42f0-828e-2a5ab4177921.png)
+![image](https://user-images.githubusercontent.com/95710184/150135428-169f44b4-3414-426f-a25a-6d26dd3b0d42.png)
+
 
 
 ### Comparison of Schools by Spending Per Student
