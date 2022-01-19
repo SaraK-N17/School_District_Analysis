@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-Maria provided school data for the school district. She would like results analyzed and presented in various ways to compare passing students (in math, reading and overall) by school, grade, school type, and school budget. Maria brought a concern forward that there were errors in the 9th grade data for Thomas High School. She asked us to remove this data from the analysis. This will help the school district make appropriate decisions about finding and ideally improve student success.
+Maria provided school data for the school district. She would like results analyzed and presented in various ways to compare passing students (in math, reading and overall) by school, grade, school type, and school budget. Maria brought a concern forward that there were errors in the 9th grade data for Thomas High School. She asked us to remove this data from the analysis. This will help the school district make appropriate budget and resource decisions to improve student success.
 
 
 ## Analysis
@@ -11,12 +11,10 @@ Maria provided school data for the school district. She would like results analy
 After cleaning up the data to remove prefixes/suffixes and omitting the 9th grade scores from Thomas High School in the analysis we were able to combine the student data with the school data into one DataFrame.
 ![image](https://user-images.githubusercontent.com/95710184/150044874-7fa3a392-5207-4943-b8f4-105feac76cf6.png)
 
-The data was summarized by school, specific to Thomas High School, by grade level and by school type (charter or district). 
-
-
+The data was summarized and analyzed by school, grade level, budget, school size and by school type (charter or district). 
 
 ## Results
-The initial results for Thomas High school (including 9th graders) confirms the 9th grade scores were skewing the results. With 9th graders included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%. While not conclusive evidence that tampering with scores occurred, the significant change warrants further investigation.
+With 9th graders included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%. While not conclusive evidence that tampering with scores occurred, the significant change warrants further investigation as the 9th graders scores were skewing the results for Thomas High School.
 
 ![image](https://user-images.githubusercontent.com/95710184/150136268-fde345e8-4d29-4e53-9fc0-c8449a0fd756.png)
 
@@ -28,6 +26,9 @@ The updated results with 9th graders scores removed were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150136315-1e1dbd6a-6e88-4574-b3c0-a5d43ba1025d.png)
 
+While removal of the 9th graders from Thomas High School impacted the results at that school, the impact on the disctric scores overall was very minimial.
+
+With the inclusion of the 9th graders at Thomas High School, they were ranked in the top 5 schools in the district. Excluding the 9th graders bumps Thomas High School down the list and they are no longer in the top 5, leaving all charter schools in the top 5.
 
 
 ### Comparison of Schools by Spending Per Student
@@ -47,4 +48,7 @@ Charter Schools performed better than District Schools.
 
 
 ## Summary
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+
+While removal of the 9th graders from Thomas High School significantly impacted the results at that school, the impact on the disctric scores overall was very minimial.
+
+With the inclusion of the 9th graders at Thomas High School, they were ranked in the top 5 schools in the district. Excluding the 9th graders bumps Thomas High School down the list and they are no longer in the top 5, leaving all charter schools in the top 5.
