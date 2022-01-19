@@ -15,7 +15,7 @@ The data was summarized by school, specific to Thomas High School, by grade leve
 
 
 
-### Results
+## Results
 The initial results for Thomas High school were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150046003-b53d4a5e-1058-4273-ac75-551c4a26918b.png)
@@ -28,7 +28,12 @@ The updated results with 9th graders scores removed were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150047357-d36072cb-8574-42f0-828e-2a5ab4177921.png)
 
+### Comparison of School Size
+Large schools (2000-5000 students) performed much worse than smaller schools. Only 58% of students in large schools passed math and reading overall, compared to 90% for small schools (<1000 students) and 91% for medium schools (1000-2000 students).
 
+![image](https://user-images.githubusercontent.com/95710184/150048818-ced0ac09-d880-42a3-85d5-342a918bbbe6.png)
+
+### Comparison of School Type
 Charter Schools performed better than District Schools.
 ![image](https://user-images.githubusercontent.com/95710184/150048420-5d104b08-4913-4e08-af2f-e042a11dc26b.png)
 
