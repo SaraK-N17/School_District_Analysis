@@ -16,7 +16,7 @@ The data was summarized by school, specific to Thomas High School, by grade leve
 
 
 ## Results
-The initial results for Thomas High school (including 9th graders) were:
+The initial results for Thomas High school (including 9th graders) confirms the 9th grade scores were skewing the results. With 9th graders included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%. While not conclusive evidence that tampering with scores occurred, the significant change warrants further investigation.
 
 ![image](https://user-images.githubusercontent.com/95710184/150136268-fde345e8-4d29-4e53-9fc0-c8449a0fd756.png)
 
