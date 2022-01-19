@@ -28,6 +28,12 @@ The updated results with 9th graders scores removed were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150047357-d36072cb-8574-42f0-828e-2a5ab4177921.png)
 
+
+### Comparison of Schools by Spending Per Student
+
+![image](https://user-images.githubusercontent.com/95710184/150049030-c5ec0294-fa52-4b8a-840f-7af22d1207cc.png)
+
+
 ### Comparison of School Size
 Large schools (2000-5000 students) performed much worse than smaller schools. Only 58% of students in large schools passed math and reading overall, compared to 90% for small schools (<1000 students) and 91% for medium schools (1000-2000 students).
 
