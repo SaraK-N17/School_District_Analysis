@@ -54,12 +54,12 @@ There is very minimal difference in results between the original analysis (inclu
 
 
 ### Comparison of School Size
-Large schools (2000-5000 students) performed much worse than smaller schools. Only 58% of students in large schools passed math and reading overall, compared to 90% for small schools (<1000 students) and 91% for medium schools (1000-2000 students). Again there is very minimal difference between the original and updated analysis and, when rounded, the results are the same.
+Large schools (2000-5000 students) performed much worse than smaller schools. Only 58% of students in large schools passed math and reading overall, compared to 90% for small schools (<1000 students) and 91% for medium schools (1000-2000 students). Again there is very minimal difference between the original and updated analysis and, when rounded, the results are the same. To observe the minimal differences, results would need to be shown down to several decimal places.
 
 ![image](https://user-images.githubusercontent.com/95710184/150048818-ced0ac09-d880-42a3-85d5-342a918bbbe6.png)
 
 ### Comparison of School Type
-Charter Schools performed better than District Schools overall. However, removal of the 9th graders did not change the original analysis.
+Charter Schools performed better than District Schools overall. However, removal of the 9th graders did not change the original analysis unless results are shown down below whole number values.
 
 ![image](https://user-images.githubusercontent.com/95710184/150048420-5d104b08-4913-4e08-af2f-e042a11dc26b.png)
 
