@@ -28,9 +28,11 @@ With 9th graders scores included, Thomas High School overall passing percentage 
 ![image](https://user-images.githubusercontent.com/95710184/150136315-1e1dbd6a-6e88-4574-b3c0-a5d43ba1025d.png)
 
 **9th Graders Scores Removed and 9th Graders Removed from Student Count to Calculate %**
+
 ![image](https://user-images.githubusercontent.com/95710184/150188259-6f8c4eab-6a54-45cb-b7e8-03d98ebeae95.png)
 
 ### Examining Rankings 
+
 **9th Graders Included in Scores and Totals (Original Analysis)**
 
 *Thomas High School is the 2nd ranked school in the district.*
@@ -45,6 +47,7 @@ With 9th graders scores included, Thomas High School overall passing percentage 
 ![image](https://user-images.githubusercontent.com/95710184/150193493-3feba086-cd40-4a58-b156-f5fbc0bfa517.png)
 
 ### Comparing Schools by Spending Per Student
+
 There is very minimal difference in results between the original analysis (including 9th graders) and the updated analysis (with 9th graders removed). Because Thomas High School is in the $630-$644 bin, the minimal changes are noted in that row.
 
 **Original Result**
@@ -57,17 +60,20 @@ There is very minimal difference in results between the original analysis (inclu
 
 
 ### Comparison of School Size
+
 Large schools (2000-5000 students) performed much worse than smaller schools. Only 58% of students in large schools passed math and reading overall, compared to 90% for small schools (<1000 students) and 91% for medium schools (1000-2000 students). Again there is very minimal difference between the original and updated analysis and, when rounded, the results are the same. To observe the minimal differences, results would need to be shown down to several decimal places.
 
 ![image](https://user-images.githubusercontent.com/95710184/150048818-ced0ac09-d880-42a3-85d5-342a918bbbe6.png)
 
 ### Comparison of School Type
+
 Charter Schools performed better than District Schools overall. However, removal of the 9th graders did not change the original analysis unless results are shown down below whole number values.
 
 ![image](https://user-images.githubusercontent.com/95710184/150048420-5d104b08-4913-4e08-af2f-e042a11dc26b.png)
 
 
 ## Summary
+
 Overall, it is determined that **removing the 9th graders from the calculations had little effect on the results and rankings for Thomas High School or the district as a whole.** The number of 9th graders at Thomas High School is very small compared to the overall student population in the district. Imapacts are only percebtible if results are shown down to at least 0.1%.
 
 - Math and reading scores are minimally impacted by removing the 9th graders. 
