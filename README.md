@@ -29,6 +29,8 @@ The updated results with 9th graders scores removed were:
 ![image](https://user-images.githubusercontent.com/95710184/150047357-d36072cb-8574-42f0-828e-2a5ab4177921.png)
 
 
+Charter Schools performed better than District Schools.
+![image](https://user-images.githubusercontent.com/95710184/150048420-5d104b08-4913-4e08-af2f-e042a11dc26b.png)
 
 
 
