@@ -45,10 +45,12 @@ With 9th graders scores included, Thomas High School overall passing percentage 
 There is very minimal difference in results between the original analysis (including 9th graders) and the updated analysis (with 9th graders removed). 
 
 **Original Result**
-![image](https://user-images.githubusercontent.com/95710184/150049030-c5ec0294-fa52-4b8a-840f-7af22d1207cc.png)
+
+![image](https://user-images.githubusercontent.com/95710184/150191978-79e6e280-9bbc-4d8e-99e7-8928f367589b.png)
 
 **Updated Analysis**
-![image](https://user-images.githubusercontent.com/95710184/150190013-8b20ef6a-4cfa-4f74-a04b-310d2863b7d9.png)
+
+![image](https://user-images.githubusercontent.com/95710184/150192183-a684fb38-c010-448d-8f4d-a97109a1058e.png)
 
 
 ### Comparison of School Size
