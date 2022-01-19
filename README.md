@@ -42,7 +42,7 @@ With 9th graders scores included, Thomas High School overall passing percentage 
 ![image](https://user-images.githubusercontent.com/95710184/150183473-9190321a-dca0-4af1-9234-699ba3b4b3bf.png)
 
 ### Comparing Schools by Spending Per Student
-There is very minimal difference in results between the original analysis (including 9th graders) and the updated analysis (with 9th graders removed). 
+There is very minimal difference in results between the original analysis (including 9th graders) and the updated analysis (with 9th graders removed). Because Thomas High School is in the $630-$644 bin, the minimal changes are noted in that row.
 
 **Original Result**
 
