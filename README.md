@@ -14,7 +14,7 @@ After cleaning up the data to remove prefixes/suffixes and omitting the 9th grad
 The data was summarized and analyzed by school, grade level, budget, school size and by school type (charter or district). 
 
 ## Results
-With 9th graders scores included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%.  However, this is simply eliminataing the scores from 9th graders, but still counting them in the total student count, not giving a clear picture of the results. 
+With 9th graders scores included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%.  However, this is simply eliminating the scores from 9th graders, but still counting them in the total student count, not giving a clear picture of the results. 
 
 ![image](https://user-images.githubusercontent.com/95710184/150136268-fde345e8-4d29-4e53-9fc0-c8449a0fd756.png)
 
@@ -27,9 +27,6 @@ The updated results with 9th graders scores removed were:
 
 ![image](https://user-images.githubusercontent.com/95710184/150136315-1e1dbd6a-6e88-4574-b3c0-a5d43ba1025d.png)
 
-
-When assessed based only on the scores of 10th-12th graders and the total students in 10th-12th grade, the results did not affect the ranking of Thomas High School. 
-**Removing the 9th grade scores had little effect on the results and rankings of Thomas High School.**
 
 **9th Graders Included in Scores and Totals (Original Analysis)**
 *Thomas High School is the 2nd ranked school in the district.*
