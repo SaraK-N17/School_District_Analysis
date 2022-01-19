@@ -31,11 +31,14 @@ If we consider only the 10th-12th graders scores and student count, the results 
 
 When assessed based only on the scores of 10th-12th graders and the total students in 10th-12th grade, the results did not affect the ranking of Thomas High School.
 
-##9th Graders Included in Scores and Totals (Original Analysis)##
-#Thomas High School is the 2nd ranked school in the district.#
+**9th Graders Included in Scores and Totals (Original Analysis)**
+*Thomas High School is the 2nd ranked school in the district.*
 
-##9th Graders Removed from Scores and Totals (Repeated Analysis)##
-#Thomas High School is still the 2nd ranked school in the district.#
+![image](https://user-images.githubusercontent.com/95710184/150187060-9c76b12a-6b9f-4b42-8517-6a6806e3017a.png)
+
+
+**9th Graders Removed from Scores and Totals (Repeated Analysis)**
+*Thomas High School is still the 2nd ranked school in the district.*
 ![image](https://user-images.githubusercontent.com/95710184/150183473-9190321a-dca0-4af1-9234-699ba3b4b3bf.png)
 
 
