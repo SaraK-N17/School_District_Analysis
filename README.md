@@ -17,7 +17,7 @@ The data was summarized and analyzed by school, grade level, budget, school size
 
 #Removing 9th Graders from Scores and/or Student Count Impacts Results
 
-With 9th graders scores included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%.  However, this is simply eliminating the scores from 9th graders, but still counting them in the total student count, not giving a clear picture of the results. When 9th graders scores are removed and the 9th graders are removed from calculating the passing percentage, the overall passing percentage is 90.7%, only a slight decrease from when the 9th graders were included. This is described in the screenshots below and the *Overall Passing Percentage is highlighted in each*.
+With 9th graders scores included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%.  However, this is simply eliminating the scores from 9th graders, but still counting them in the total student count, not giving a clear picture of the results. When 9th graders scores are removed and the 9th graders are removed from calculating the passing percentage, the overall passing percentage is 90.6%, only a slight decrease from when the 9th graders were included. This is described in the screenshots below and the *Overall Passing Percentage is highlighted in each*.
 
 **Original Results Including 9th Graders at Thomas High School**
 
@@ -58,9 +58,9 @@ Charter Schools performed better than District Schools.
 ![image](https://user-images.githubusercontent.com/95710184/150048420-5d104b08-4913-4e08-af2f-e042a11dc26b.png)
 
 
-
 ## Summary
+Overall, it is determined that **removing the 9th graders completely from the calculations had little effect on the results and rankings for Thomas High School.**
 
-When assessed based only on the scores of 10th-12th graders and the total students in 10th-12th grade, it is determined that **removing the 9th grade scores had little effect on the results and rankings of Thomas High School.**
+- Math and reading scores are minimally impacted by removing the 9th graders. 
+- 
 
-With the inclusion of the 9th graders at Thomas High School, they were ranked in the top 5 schools in the district. Excluding the 9th graders bumps Thomas High School down the list and they are no longer in the top 5, leaving all charter schools in the top 5.
