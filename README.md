@@ -14,20 +14,29 @@ After cleaning up the data to remove prefixes/suffixes and omitting the 9th grad
 The data was summarized and analyzed by school, grade level, budget, school size and by school type (charter or district). 
 
 ## Results
-With 9th graders scores included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%.  However, this is simply elimintaing the scores from 9th graders, but still counting them in the total student count, not giving a clear picture of the results.
+With 9th graders scores included, Thomas High School overall passing percentage of students was 90.9%. With 9th graders removed from the scores, Thomas High School's overall passing percentage plummeted to 65.1%.  However, this is simply eliminataing the scores from 9th graders, but still counting them in the total student count, not giving a clear picture of the results. 
 
 ![image](https://user-images.githubusercontent.com/95710184/150136268-fde345e8-4d29-4e53-9fc0-c8449a0fd756.png)
 
-![image](https://user-images.githubusercontent.com/95710184/150136242-96ea4813-c792-431a-bc99-697007639d51.png)
+![image](https://user-images.githubusercontent.com/95710184/150186069-bf214c0b-c3cf-4ba9-9327-6e1d7e2ee1e4.png)
+
 
 The updated results with 9th graders scores removed were:
 
-![image](https://user-images.githubusercontent.com/95710184/150136408-05aa8945-125a-4678-884f-713dd9a8a2ba.png)
+![image](https://user-images.githubusercontent.com/95710184/150186155-a732718a-5b6d-44cd-934a-6f14d516c460.png)
 
 ![image](https://user-images.githubusercontent.com/95710184/150136315-1e1dbd6a-6e88-4574-b3c0-a5d43ba1025d.png)
 
 If we consider only the 10th-12th graders scores and student count, the results are quite different and much more similar to the overall student results.
 
+When assessed based only on the scores of 10th-12th graders and the total students in 10th-12th grade, the results did not affect the ranking of Thomas High School.
+
+##9th Graders Included in Scores and Totals (Original Analysis)##
+#Thomas High School is the 2nd ranked school in the district.#
+
+##9th Graders Removed from Scores and Totals (Repeated Analysis)##
+#Thomas High School is still the 2nd ranked school in the district.#
+![image](https://user-images.githubusercontent.com/95710184/150183473-9190321a-dca0-4af1-9234-699ba3b4b3bf.png)
 
 
 
