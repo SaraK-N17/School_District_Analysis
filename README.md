@@ -74,7 +74,7 @@ Charter Schools performed better than District Schools overall. However, removal
 
 ## Summary
 
-Overall, it is determined that **removing the 9th graders from the calculations had little effect on the results and rankings for Thomas High School or the district as a whole.** The number of 9th graders at Thomas High School is very small compared to the overall student population in the district. Imapacts are only percebtible if results are shown down to at least 0.1%.
+Overall, it is determined that **removing the 9th graders from the calculations had little effect on the results and rankings for Thomas High School or the district as a whole.** The number of 9th graders at Thomas High School is very small compared to the overall student population in the district. Impacts are only percebtible if results are shown down to at least 0.1%.
 
 - Math and reading scores are minimally impacted by removing the 9th graders. 
 - Thomas High School remains the 2nd highest ranked high school, regardless of inclusion or exclusion of 9th graders scores.
